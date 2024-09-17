@@ -12,7 +12,8 @@
     "customizations": {
         "vscode": {
             "extensions": [
-                "ms-vsliveshare.vsliveshare"  // Live Share extension
+                "ms-vsliveshare.vsliveshare",  // Live Share extension
+                "ms-python.python"  // Python extension
             ]
         }
     }
